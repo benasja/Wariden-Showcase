@@ -1,6 +1,6 @@
 # Wariden
 
-A focused fitness and health companion inspired by ‘warrior in a garden’.
+A focused fitness and health companion.
 
 ---
 
