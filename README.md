@@ -8,13 +8,19 @@ A focused fitness and health companion inspired by ‘warrior in a garden’.
 
 - iPhone
 
-  - ![Nutrition](screenshots/ios-nutrition.png)
-  - ![Recovery](screenshots/ios-recovery.png)
-  - ![Sleep](screenshots/ios-sleep.png)
-   - ![Environmental Monitor](screenshots/ios-env.png)
+<div align="center">
+  <img src="screenshots/ios-nutrition.png" alt="Nutrition" width="260" style="border:1px solid #e5e7eb;border-radius:16px;padding:8px;margin:8px;background:#ffffff;" />
+  <img src="screenshots/ios-recovery.png" alt="Recovery" width="260" style="border:1px solid #e5e7eb;border-radius:16px;padding:8px;margin:8px;background:#ffffff;" />
+  <img src="screenshots/ios-sleep.png" alt="Sleep" width="260" style="border:1px solid #e5e7eb;border-radius:16px;padding:8px;margin:8px;background:#ffffff;" />
+  <img src="screenshots/ios-env.png" alt="Environmental Monitor" width="260" style="border:1px solid #e5e7eb;border-radius:16px;padding:8px;margin:8px;background:#ffffff;" />
+  
+</div>
 
 - Apple Watch
-  - ![Workout](screenshots/watch-workout.png)
+
+<div align="center">
+  <img src="screenshots/watch-workout.png" alt="Workout" width="260" style="border:1px solid #e5e7eb;border-radius:16px;padding:8px;margin:8px;background:#ffffff;" />
+</div>
 
 ---
 
